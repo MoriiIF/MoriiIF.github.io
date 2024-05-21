@@ -1,6 +1,6 @@
 $(document).ready(function () {
   try {
-    $("#page-header").ripples({
+    $('body').ripples({
       resolution: 512,
       dropRadius: 10, //px
       perturbance: 0.04,
