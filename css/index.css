@@ -1461,7 +1461,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #5f7341;
+  --btn-hover-color: #32cd32;
   --btn-color: #fff;
   --btn-bg: #3a4530;
   --text-bg-hover: rgba(58,69,48,0.7);
@@ -1475,7 +1475,7 @@ canvas:not(#ribbon-canvas),
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #5f7341;
+  --pseudo-hover: #32cd32;
   --headline-presudo: #a0a0a0;
   --scrollbar-color: #2e3c23;
   --default-bg-color: #3a4530;
@@ -1565,7 +1565,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #48c9b0;
+  background: #6c928c;
   color: #f7f7f7;
 }
 button {
@@ -4332,7 +4332,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #286746;
+  color: #00ff80;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -4947,7 +4947,7 @@ h1.page-title + .tag-cloud-list {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #3a4530;
-  --waline-active-color: #5f7341;
+  --waline-active-color: #32cd32;
 }
 #waline-wrap .wl-comment-actions > button:not(last-child) {
   padding-right: 4px;
